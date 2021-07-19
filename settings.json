@@ -1,0 +1,13 @@
+{
+    "name": "hehehe",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "hehe",
+        "/category/asset_value_tracking/core-token/symbol": "heh",
+        "/category/asset_value_tracking/core-token/decimals": "12",
+        "/category/asset_value_tracking/core-token/supply": "23232323"
+    }
+}
